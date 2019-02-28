@@ -33,7 +33,7 @@ for(var i = 0 ; i < cantidad; i++){
 	if(sexo == "m" && nota >= 6){
 		contadorVaronesMas5++;
 	}
-
+// Esto lo toman
 	if(nota < notaBaja || flag==0)
 	{
 		notaBaja = nota;
